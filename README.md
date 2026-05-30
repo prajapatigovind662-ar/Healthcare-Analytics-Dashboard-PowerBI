@@ -54,25 +54,27 @@ The project uses multiple datasets including:
 ## 📸 Dashboard Screenshots
 
 ### ❤️ Heart Analysis Dashboard
-![Heart](images/heart.png)
+![Heart](https://raw.githubusercontent.com/prajapatigovind662-ar/Healthcare-Analytics-Dashboard-PowerBI/main/images/heart.png)
 
 ---
+
 ### 🧍 Human Body Overview
-![Human](images/human.png)
+![Human](https://raw.githubusercontent.com/prajapatigovind662-ar/Healthcare-Analytics-Dashboard-PowerBI/main/images/human.png)
 
 ---
+
 ### 🩺 Kidney Analysis Dashboard
-![Kidney](images/kidney.png)
+![Kidney](https://raw.githubusercontent.com/prajapatigovind662-ar/Healthcare-Analytics-Dashboard-PowerBI/main/images/kidney.png)
 
 ---
+
 ### 🫀 Liver Analysis Dashboard
-![Liver](images/liver.png)
+![Liver](https://raw.githubusercontent.com/prajapatigovind662-ar/Healthcare-Analytics-Dashboard-PowerBI/main/images/liver.png)
 
 ---
+
 ### 🫁 Lungs Analysis Dashboard
-![Lungs](images/lungs.png)
-
----
+![Lungs](https://raw.githubusercontent.com/prajapatigovind662-ar/Healthcare-Analytics-Dashboard-PowerBI/main/images/lungs.png)
 
 ## 📂 Project Structure
 
